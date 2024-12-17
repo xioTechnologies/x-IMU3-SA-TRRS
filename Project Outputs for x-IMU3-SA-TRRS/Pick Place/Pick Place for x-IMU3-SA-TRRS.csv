@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+C:\MyFiles\x-io\Products\x-IMU3\x-IMU3-SA-TRRS\Project Outputs for x-IMU3-SA-TRRS\Pick Place\Pick Place for x-IMU3-SA-TRRS.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/12/24
+Time:       21:57
+Revision:   d269a6c2d733e678c11b71a4c23ea8472556107b
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"R1","10.5000mm","4.0000mm","TopLayer","90","0R"
+"J2","54.7000mm","3.8500mm","TopLayer","90","SJ-3554A-SMT-TR-67"
+"J1","4.5000mm","4.0000mm","TopLayer","90","FTS-105-03-F-DV"
