@@ -136,7 +136,7 @@ DocumentUniqueId=
 
 [Parameter1]
 Name=Version
-Value=v1.0
+Value=v1.1
 
 [Parameter2]
 Name=Project
